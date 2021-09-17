@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.container {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    text-decoration-line: underline;
+    color: whitesmoke;
+    background-color: rgb(61, 59, 59);
+}
+
+.jumbotron {
+    background-color: rgb(61, 59, 59);
+}
+
+.row {
+    padding: 3rem;
+    margin: 3rem;
+    align-items: center;
+}
+
+.card {
+    border-radius: 5px;
+}
