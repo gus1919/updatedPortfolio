@@ -4,25 +4,20 @@
     
 }
 
-.container {
+header {
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: 900;
-    text-decoration-line: underline;
-    color: whitesmoke;
-    background-color: rgb(61, 59, 59);
+    padding: 1.5rem;
 }
 
-.jumbotron {
-    background-color: rgb(61, 59, 59);
+nav {
+background-color: blue;
 }
 
-.row {
-    padding: 3rem;
-    margin: 3rem;
-    align-items: center;
+#personalPicture {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-.card {
-    border-radius: 5px;
+#aboutMe {
+    display: none;
 }
