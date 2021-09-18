@@ -30,3 +30,17 @@ background-color: blue;
 #projects {
     display: none;
 }
+
+#resume {
+    display: none;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+#contact {
+    text-align: center;
+    display: none;
+}
