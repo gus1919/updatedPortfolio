@@ -14,6 +14,7 @@ nav {
 background-color: blue;
 border-radius: 7px;
 background-image: radial-gradient(yellow, orange, blue);
+font-weight: 700;
 }
 
 body {
@@ -39,9 +40,10 @@ body {
     display: none;
 }
 
+
 #resume {
     display: none;
-    
+    font-weight: 700;
 }
 
 ul {
@@ -51,4 +53,17 @@ ul {
 #contact {
     text-align: center;
     display: none;
+}
+
+#resumePDF {
+    text-decoration-line: underline;
+}
+
+.links {
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+#contact {
+  font-weight: 500;
 }
